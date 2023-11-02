@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "advida-everflow-api",
+  "private_key_id": "8c6e21311450d1519480f6e252bd73dcbfbdc0e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkLVg6gUd6O4e0\ntCZa1ItVmwPhuRFp7F8sA4nVxRtnjnJmlarRO3u3gf4eAcazQJOJpzex3CV9azz3\nQyRljzzBOJZw8jRzpazt3fQ+wl74iYMiVaQWFbhynejT/TGt3DKnhZeZxYmlpZ8k\nsku56KJFtsCK3OXwKShPk14eoKCosApWMoF6KHFHukLIg7pvXKcm3QGX+mhHnGTQ\nejdhKrWJuP8L4b5nEfEAiHSOf/nUdH/mfNxUlYQWrn3Mmeo50Dnx6wYezRauzKd9\nvJGoPXiegJHEowf1TM/w4A5bhZK0l9fE25uVx8wry31k1abXE8qidVSHLJkp92/h\nMAfKUQxPAgMBAAECggEAD6tPfkEHfAzffljKs30aDmhlRVh0qi35wSeDDSOKhLuC\n/qlzgAfSMKFkJoJft0qNdyv9BqFED89P8fjx5GmINgqhRiNT18c+T11pGvA1HmMv\nFqoD6SJXtsNCTGB8S2CuN9PUO9KVZ8MuYRI/YgZoMlpg8YhG4A2rf39yvK6yKbM/\n5UBwK/654ztVYs67cVMJlKjqjk9psTeHF1K9atfpC1DIojyK4O9Mzh1YqGpJLE6x\nfJXeHPNHtznhN9IR7aF7xHU1Kj4zdEk6nOGleNW0/mp/dBdYE4JnXt+eDGdG8JwF\ntqzSf+6Beb+uiPD13tdlmlGu4yPcantODujXUzcHUQKBgQD4ordoYUhPlPFCNQVm\nezpUkWSk5GhSpHeqC0PHAtjftUHKViAWs+1Y69jYF8FkNlZHpW4qK+R8Zo4n2v3N\nL0oJ56iKI4qXAs4p5XEuoh1CxQNmLuCYjPHxRmDTwYf/uedOIBjKz/9Kvfy//3ky\nNk5/gOcARflsFOJpRi82fh+hfwKBgQDq74BdMHzSQ6cJYooPWZ0b6JNlwub7SxOl\ntC+ZbtNOb8PNGOSLxZAPXk/VeUdpEsNrHqbYc4bQT/1FUptNjO63FSd1Rat22xUb\ncBBSlgAGSer2BmYFGjpW/DzohM/K5rnZGOnFJ3NFt1kInbtnPlH3nXygfMUwwp5H\n+tPd82hdMQKBgQChP64hBM6Hxjm9TXOmJg8LX4vdIMDDsCRnZIzdWWxbkUsMtVR0\nRNaOT86/PpDOtCq6poBO206Am2ZgVLc7RgsHZ3U3uZsdGtWn+ESyELNXZTwyHf7N\nEMOsTY9oZeAUqnVnhottpP2VdKehwUbRmMTKDkhCNh9vyA+aZMkj1yIecwKBgAvo\nm/8dSBZ4a20kW48vobEadu4/lOnEAnjxyz/hyEA/lhM9Ychb+VNuGmndverrkpBJ\ne3eZU4oXo+TxrQGfVTJeliNxpqFdtZIwegNVqyamdIyIAn/btn1WR9gZc1b7nwwM\nIT1nJIayJoczR56SICGHEBwqduxj0RYg9sBXaEDhAoGAJFPyTV5bED72Kwf8Noqj\no55jaLXSDiNmYtnXMpmszHKxZopVoCNScHsQreUKr8wleJtGDShkH8QolQ28xIDn\ncdmDHloKGDrHNNMBe+fCH0jFs7mGUMBiFMH7Cz/Kej6Q7sULMTOBXKS4jTmw/9+e\nSBldKNdPeDiPC4b6ljGxbvk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fmyuu@advida-everflow-api.iam.gserviceaccount.com",
+  "client_id": "108485781088061672940",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fmyuu%40advida-everflow-api.iam.gserviceaccount.com"
+}
